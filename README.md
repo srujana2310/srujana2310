@@ -3,12 +3,11 @@
 Graduate student at **UTD** studying **Information Technology & Management** focused on data analytics and machine learning - building things that turn numbers into decisions.
 
 ---
-Most people see a dataset and see numbers. I see a 2am debugging session and a dashboard I'm oddly proud of.
 Here you'll find:
-- 📊 Dashboards and BI projects (Power BI, Python, SQL)
-- 🤖 Machine learning experiments and pipelines
-- 🛡️ Security tools and Android apps
-- 📚 DSA practice 
+- Dashboards and BI projects (Power BI, Python, SQL)
+- Machine learning experiments and pipelines
+- Security tools and Android apps
+- DSA practice 
 ---
 
 ## 🔧 Tech Stack
