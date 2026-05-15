@@ -1,20 +1,17 @@
-# 🌸 Hey, I'm Srujana Makarande!
+# 🌸 Hey, I'm Srujana!
 
 **MS Information Technology & Management @ UT Dallas**
 Data Analyst · Data Scientist · Builder of things that make sense of data
 
 ---
 
-Welcome to my GitHub! I turn messy data into clean insights and love building projects that sit at the intersection of **analytics, ML, and real-world impact**.
+I turn messy data into clean insights and love building projects that sit at the intersection of **analytics, ML, and real-world impact**.
 
 Here you'll find:
 - 📊 Dashboards and BI projects (Power BI, Python, SQL)
 - 🤖 Machine learning experiments and pipelines
 - 🛡️ Security tools and Android apps
-- 📚 DSA practice and competitive programming
-
-> *Let's connect, learn, and grow together — one repo at a time. You bring the snacks, I'll bring the code 🍪💻*
-
+- 📚 DSA practice 
 ---
 
 ## 🔧 Tech Stack
