@@ -1,6 +1,6 @@
 # 🌸 Hey, I'm Srujana!
 
-Graduate student at **UTD studying Information Technology & Management** focused on data analytics and machine learning - building things that turn numbers into decisions.
+Graduate student at **UTD** studying **Information Technology & Management** focused on data analytics and machine learning - building things that turn numbers into decisions.
 
 ---
 Most people see a dataset and see numbers. I see a 2am debugging session and a dashboard I'm oddly proud of.
